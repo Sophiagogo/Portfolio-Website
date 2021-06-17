@@ -41,4 +41,4 @@ Available on:
 ![contact](/images/contact.png)
 
 * This is an internal link.
-* It lists my contact here and includes two icons, click to open an external link.
+* It lists my contact here and includes two icons, click the icon will open the external link (linkedin / facebook).
