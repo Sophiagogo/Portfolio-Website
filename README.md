@@ -1,9 +1,8 @@
-# PersonalWebsite-ShoujuanFan
-Starting up http-server
-Available on:
-  http://127.0.0.1:8081
+# Portfolio Website
 
-  This is a website about myself, it listed my education history and working history, as well as a gallery of my life, it also has my contacts inside. It is simple and not perfect, hopefully you enjoy it!:smiley:
+https://portfoliowebsite-sophiafan.herokuapp.com/
+
+  This is a website about myself, it listed my education history and working history, as well as a gallery of my life, it also has my contacts inside. It is my first web project and start from scratch, it is simple and not perfect, hopefully you enjoy it!:smiley:
 
 # HomePage
   ![home](/images/home.png)
