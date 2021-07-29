@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    background-color: thistle;
+
+}
+.content{
+    background-color: wheat;
+    width: 400px;
+    padding: 40px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+    text-align: center;
+}
